@@ -25,6 +25,8 @@ public class Sorting {
 		s.Sorting(arr);
 		s.printArray(arr);
 	}
-				}
-					
+				
+{
+}
+}
 	
